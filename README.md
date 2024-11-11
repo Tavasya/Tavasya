@@ -1,3 +1,16 @@
+# 👋 Hi, I'm Tavasya!
+
+🧑‍💻 Aspiring Software Engineer documenting my journey and learnings in tech  
+🎓 Studying Computer Science at San Francisco State University 🐊  
+🎥 Interested in making education technology, making student life more accessible and efficient    
+🧗‍♀️ Adrenaline Junkie, love everything and anything outdoors!
+
+---
+
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![Tavasya's github stats](https://github-readme-stats.vercel.app/api?username=Tavasya&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+
+
 # 💻 Tech Stack:
 
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
