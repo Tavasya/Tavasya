@@ -7,10 +7,6 @@
 
 ---
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![Tavasya's github stats](https://github-readme-stats.vercel.app/api?username=Tavasya&count_private=true&show_icons=true&theme=radical&hide_rank=false)
-
-
 # 💻 Tech Stack:
 
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
